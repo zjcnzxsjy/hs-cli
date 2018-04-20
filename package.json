@@ -1,0 +1,27 @@
+{
+  "name": "hscli",
+  "version": "1.0.0",
+  "description": "一键下载 github 模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hs": "./bin/hs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe6/fecli.git"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
