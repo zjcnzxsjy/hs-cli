@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fe6/fecli.git"
+    "url": "git+https://github.com/zjcnzxsjy/hs-cli.git"
   },
   "dependencies": {
     "chalk": "^2.3.2",
@@ -21,7 +21,10 @@
     "commander": "^2.15.1",
     "ora": "^2.0.0"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "cli"
+  ],
   "author": "",
   "license": "ISC"
 }
